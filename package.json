@@ -1,0 +1,16 @@
+{
+  "name": "IainJohnston_Website",
+  "description": "The website for Iain Johnston",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "2.1.0",
+    "gulp-cache": "0.2.8",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "2.2.1",
+    "gulp-plumber": "1.0.0",
+    "gulp-rename": "1.2.2"
+  }
+}
